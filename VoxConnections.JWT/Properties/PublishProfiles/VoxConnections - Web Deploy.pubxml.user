@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAd8bFe1s2Ok2iYCtRGftDHAAAAAACAAAAAAAQZgAAAAEAACAAAADOFLnvnc4ZwCs4AVUIh7PMCSrE9DB8Xty6SCcUINKmBwAAAAAOgAAAAAIAACAAAAD8pTnoWSUEHJLnk1mw0jC3lLgpxle6YJv2lDeuJriW9DAAAAAuYehQUNdg1JCrMFc1nNu6aQTaU5MNJx/I5F2NTkICTy8gipaStiRrB9D6AR+c9c1AAAAAXoNXavTSnwNgY+YgZ1I2otieozGCgLtawQG6HLyc/ABym74FyEGksFzDOMbybxQ6w1QIBz63YTsu1WhPQCEnrw==</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="VoxDBConnection">
+      <Value>Data Source=tcp:vox.database.windows.net,1433;Initial Catalog=VoxDb;User ID=voxadmin;Password=VoxConnections2018;</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

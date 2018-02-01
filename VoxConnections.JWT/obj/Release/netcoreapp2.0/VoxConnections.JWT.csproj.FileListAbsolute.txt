@@ -1,0 +1,22 @@
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2017\Projects\VoxConnections.JWT\VoxConnections.JWT\bin\Release\netcoreapp2.0\VoxConnections.JWT.deps.json
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2017\Projects\VoxConnections.JWT\VoxConnections.JWT\bin\Release\netcoreapp2.0\VoxConnections.JWT.runtimeconfig.json
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2017\Projects\VoxConnections.JWT\VoxConnections.JWT\bin\Release\netcoreapp2.0\VoxConnections.JWT.runtimeconfig.dev.json
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2017\Projects\VoxConnections.JWT\VoxConnections.JWT\bin\Release\netcoreapp2.0\VoxConnections.JWT.dll
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2017\Projects\VoxConnections.JWT\VoxConnections.JWT\bin\Release\netcoreapp2.0\VoxConnections.JWT.pdb
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2017\Projects\VoxConnections.JWT\VoxConnections.JWT\obj\Release\netcoreapp2.0\VoxConnections.JWT.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2017\Projects\VoxConnections.JWT\VoxConnections.JWT\obj\Release\netcoreapp2.0\VoxConnections.JWT.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2017\Projects\VoxConnections.JWT\VoxConnections.JWT\obj\Release\netcoreapp2.0\VoxConnections.JWT.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2017\Projects\VoxConnections.JWT\VoxConnections.JWT\obj\Release\netcoreapp2.0\VoxConnections.JWT.AssemblyInfo.cs
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2017\Projects\VoxConnections.JWT\VoxConnections.JWT\obj\Release\netcoreapp2.0\VoxConnections.JWT.dll
+C:\Users\Rodrigo Campos\Documents\Visual Studio 2017\Projects\VoxConnections.JWT\VoxConnections.JWT\obj\Release\netcoreapp2.0\VoxConnections.JWT.pdb
+C:\TFS\VoxConnections_Core\VoxConnections.JWT\VoxConnections.JWT\bin\Release\netcoreapp2.0\VoxConnections.JWT.deps.json
+C:\TFS\VoxConnections_Core\VoxConnections.JWT\VoxConnections.JWT\bin\Release\netcoreapp2.0\VoxConnections.JWT.runtimeconfig.json
+C:\TFS\VoxConnections_Core\VoxConnections.JWT\VoxConnections.JWT\bin\Release\netcoreapp2.0\VoxConnections.JWT.runtimeconfig.dev.json
+C:\TFS\VoxConnections_Core\VoxConnections.JWT\VoxConnections.JWT\bin\Release\netcoreapp2.0\VoxConnections.JWT.dll
+C:\TFS\VoxConnections_Core\VoxConnections.JWT\VoxConnections.JWT\bin\Release\netcoreapp2.0\VoxConnections.JWT.pdb
+C:\TFS\VoxConnections_Core\VoxConnections.JWT\VoxConnections.JWT\obj\Release\netcoreapp2.0\VoxConnections.JWT.csprojResolveAssemblyReference.cache
+C:\TFS\VoxConnections_Core\VoxConnections.JWT\VoxConnections.JWT\obj\Release\netcoreapp2.0\VoxConnections.JWT.csproj.CoreCompileInputs.cache
+C:\TFS\VoxConnections_Core\VoxConnections.JWT\VoxConnections.JWT\obj\Release\netcoreapp2.0\VoxConnections.JWT.AssemblyInfoInputs.cache
+C:\TFS\VoxConnections_Core\VoxConnections.JWT\VoxConnections.JWT\obj\Release\netcoreapp2.0\VoxConnections.JWT.AssemblyInfo.cs
+C:\TFS\VoxConnections_Core\VoxConnections.JWT\VoxConnections.JWT\obj\Release\netcoreapp2.0\VoxConnections.JWT.dll
+C:\TFS\VoxConnections_Core\VoxConnections.JWT\VoxConnections.JWT\obj\Release\netcoreapp2.0\VoxConnections.JWT.pdb

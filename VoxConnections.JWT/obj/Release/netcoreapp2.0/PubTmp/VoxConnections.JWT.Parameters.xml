@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="API Auth" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\TFS\\VoxConnections_Core\\VoxConnections\.JWT\\VoxConnections\.JWT\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
